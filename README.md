@@ -1,2 +1,2 @@
 # Bibliotek
-Bibliotek - School Project
+Bibliotek - Project
